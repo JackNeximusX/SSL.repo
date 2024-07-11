@@ -1,0 +1,67 @@
+
+/* text and body */
+body{
+    background-color: black; 
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    font-size: 115%;
+    display: block;
+    color: white;
+}
+
+
+
+
+/* image and caption */
+#images{
+    border-style: dashed;
+    border-color: aliceblue;
+    display: inline-block;
+    margin: auto; 
+}
+
+img{
+    display: inline-block;
+    margin: 0% auto 0% auto;
+}
+
+
+figcaption{
+    display: block;
+    margin: auto ;
+    background-color: red;
+}
+
+
+
+
+/* link */
+a{
+    text-decoration: none;
+}
+
+a:active{
+    color: red;
+}
+
+a:link{
+    color: red;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: red;
+}
+
+
+
+

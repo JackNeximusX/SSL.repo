@@ -1,0 +1,13 @@
+Title: SSL Live L500 Plus
+
+Caption:
+Line 1: New L500 Plus with V3 Software...
+Line 2: ...more power, more than 40 new features.
+
+Description: Since its introduction in 2013 the SSL Live L500 console has met widespread praise from many of the world's leading live engineers. At ProLight & Sound 2015 SSL announced a new L500 Plus version of the console with more power and an enhanced V3 feature set. The highlights of the new release are described in the press release here.
+
+Link:
+    URL: https://www.youtube.com/watch?v=oWWCr22Lkjc
+    TEXT: SSL Live L500 console
+
+Link should open in a new tab.
